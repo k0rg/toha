@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://k0rg.github.io
 
 languageCode: bn
 title: "John's Blog"
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/k0rg/toha
   # Default branch of your Git repo
   gitBranch: main
 
@@ -148,7 +148,7 @@ params:
       services:
         # Google Analytics
         google:
-          id: G-H4LBG7NDFZ
+          id: G-0Y02YZYKCV
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>
