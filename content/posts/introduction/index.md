@@ -1,18 +1,19 @@
 ---
 title: "Introduction"
 date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+description: Introduction to me
 menu:
   sidebar:
     name: Introduction
     identifier: introduction
     weight: 10
-tags: ["Basic", "Multi-lingual"]
-categories: ["Basic"]
+hero: introduction-hero.jpeg
+enableTOC: false
+categories: ["Intro"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+Hi! I'm Brinton.
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+I've been working in tech for more than a decade and I've been a nerd for as long as I can remember. 
+
+I mostly created this site to document some things I've learned along the way. This is also a place I keep some tutorials, walkthroughs, and references (mostly for me) that others might find useful. 
